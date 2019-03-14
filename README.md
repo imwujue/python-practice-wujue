@@ -1,6 +1,17 @@
 #### Q1~Q100:http://www.runoob.com/python/python-100-examples.html
-Q1:python不支持自增运算，如count++
+Q1:python不支持自增运算，如count++。
 
-Q2：input([prompt]),promt为提示信息，如input("输入："),所有输入默认字符串操作。
+Q2:input([prompt]),promt为提示信息，如input("输入："),所有输入默认字符串操作。
 
-range(start,stop[,step]),从start开始到stop结束，不包括stop，step为步长
+range(start,stop[,step]),从start开始到stop结束，不包括stop，step为步长。
+
+Q4:()元组，不可变序列；[]序列，可变序列；{}字典，键值对。
+
+Q5:list.append(x);list.sort()
+
+Q7:[1,2,3]+[4,5,6]=[1,2,3,4,5,6]组合；['Hi']*2=['Hi','Hi'']重复
+
+a是浅复制，只复制内容，重新开辟新空间；a[:]是深复制，指针不变
+
+
+
