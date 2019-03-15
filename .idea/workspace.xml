@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded22882-19fe-484d-a21f-e456b0fcb36d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ded22882-19fe-484d-a21f-e456b0fcb36d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -304,24 +296,24 @@
       <option name="presentableId" value="Default" />
       <updated>1552480373654</updated>
       <workItem from="1552480377119" duration="5304000" />
-      <workItem from="1552524644639" duration="3892000" />
+      <workItem from="1552524644639" duration="4159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9196000" />
+    <option name="totallyTimeSpent" value="9463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="440" y="62" width="886" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38625592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38625592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39337176" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39913544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -417,8 +409,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
