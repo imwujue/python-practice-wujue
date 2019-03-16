@@ -17,4 +17,4 @@ Q8:print函数默认end="\n",可以通过修改end值，不换行
 
 Q10:time.localtime()获取本地时间；time.strftime()格式化时间
 
-
+Q12:判断素数的方法，用一个数分别除2到sqrt，都不能被整除，则是素数
