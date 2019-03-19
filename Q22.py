@@ -1,30 +1,36 @@
-list1 = ['a','b','c']
-list2 = ['x','y','z']
-dict = {}
-list3 = []
-list4 = []
+list = ['a','b','c','x','y','z']
+total = []
 
-# for i in list1:
-    # for j in list2:
-        # print("first:",i, j)
+def perm(list, begin, end):
+    if begin >= end:
+        tmp = list.copy()
+        total.append(tmp)
+        # print(list)
+    else:
+        i = begin
+        for num in range(begin, end):
+            list[i], list[num] = list[num], list[i]
+            perm(list,begin+1,end)
+            list[i], list[num] = list[num], list[i]
 
-        # if i == 'a' and j == 'x':
-        #     continue
-        # if i == 'c' and j == 'x':
-        #     continue
-        # if i == 'c' and j == 'z':
-        #     continue
-        # print(i,j)
 
-def permutation(list1, list2):
-    for i in list2:
-        list3.append(list1[0])
-        list4.append(i)
-        list1.remove(list1[0])
-        list2.remove(i)
-        if list1.__len__()!=0:
-            permutation(list1,list2)
+perm(list,0,len(list))
 
-permutation(list1,list2)
-print(list3)
-print(list4)
+new_total = []
+
+for elem in total:
+    if elem[0] != 'a':
+        continue
+    if elem[1] != 'b':
+        continue
+    if elem[2] != 'c':
+        continue
+    if elem[3] == 'x':
+        continue
+    if elem[5] == 'x' or elem[5] == 'z':
+        continue
+    tmp = elem.copy()
+    new_total.append(elem)
+
+print(new_total)
+
